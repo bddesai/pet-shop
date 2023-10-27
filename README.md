@@ -2,4 +2,4 @@
 Blockchain dApp for pet adoption 
 
 
-Reference: https://truffleframework.com/tutorials/pet-shop
+Reference: https://trufflesuite.com/guides/pet-shop/
